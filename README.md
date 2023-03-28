@@ -1,7 +1,7 @@
 ## 待解决的问题
 - ReferencePanel数据来源？
-- PRScice跑ER模型？
-- sklearn跑ER模型和MLP模型？重点是输入数据的处理？
+- PRScice跑EN模型？
+- sklearn跑EN模型和MLP模型？重点是输入数据的处理？
 - 实验结果文件及图表的含义？
 
 ## 已完成工作
