@@ -1,3 +1,16 @@
+## <font color='red'> 待解决的问题</font>
+- ReferencePanel数据来源？
+- PRScice跑ER模型？
+- sklearn跑ER模型和MLP模型？重点是输入数据的处理？
+- 实验结果文件及图表的含义？
+
+## 已完成工作
+- HAPGEN数据仿真流程及参数设置的含义
+- PLINK的使用
+- PRSice跑加法模型
+
+-----
+
 ## 团队成员
 - 陈婉君 21级本科生
 - 刘子豪 21级本科生
@@ -8,16 +21,6 @@
 - PLINK
 - PRSice
 
-## 已完成工作
-- HAPGEN数据仿真流程及参数设置的含义
-- PLINK的使用
-- PRSice跑加法模型
-
-## 待解决的问题
-- ReferencePanel数据来源？
-- PRScice跑ER模型？
-- sklearn跑ER模型和MLP模型？重点是输入数据的处理？
-- 实验结果文件及图表的含义？
 ## 相关资料
 - [什么是多基因评分(Polygenic Scores)?](https://zhuanlan.zhihu.com/p/368701300), [英文版介绍](http://polygenicscores.org/explained/)
 - [全基因组关联分析(Genome Wide Association Study)](https://baike.baidu.com/item/%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%85%B3%E8%81%94%E5%88%86%E6%9E%90/9483732?fr=aladdin)
