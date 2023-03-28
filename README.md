@@ -9,6 +9,7 @@
 - PRSice
 
 ## 已完成工作
+- HAPGEN数据仿真流程及参数设置的含义
 - PLINK的使用
 - PRSice跑加法模型
 
