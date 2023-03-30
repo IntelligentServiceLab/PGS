@@ -18,7 +18,8 @@
   - [官网](https://www.cog-genomics.org/plink/)
 - PRSice
   - [Tutorial](https://choishingwan.github.io/PRSice/)
-
+- PGS with PLINK/PRSice-2/LDpred-2/lassonsum
+  - [Tutorial](https://choishingwan.github.io/PRS-Tutorial/)
 ## 方法模型及实现工具
 - **Additive PGS Method** (P+T)
   - PLINK
