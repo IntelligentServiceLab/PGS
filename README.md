@@ -15,8 +15,9 @@
 - HAPGEN
   - [官网](https://mathgen.stats.ox.ac.uk/genetics_software/hapgen/hapgen2.html)
 - PLINK
-  - [官网](https://www.cog-genomics.org/plink/>)
+  - [官网](https://www.cog-genomics.org/plink/)
 - PRSice
+  - [Tutorial](https://choishingwan.github.io/PRSice/)
 
 ## 方法模型及实现工具
 - **Additive PGS Method** (P+T)
