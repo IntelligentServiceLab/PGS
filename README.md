@@ -6,8 +6,8 @@
 
 ## 已完成工作
 - HAPGEN数据仿真流程及参数设置的含义
-- PLINK的使用及跑加法模型
-- PRSice跑加法模型
+- PLINK的使用及跑P+T模型
+- PRSice跑P+T模型
 
 -----
 
