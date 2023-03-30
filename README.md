@@ -17,12 +17,12 @@
 - PRSice
 
 ## 方法模型及实现工具
-- Additive PGS Method
+- **Additive PGS Method**
   - PLINK
   - PRSice
-- Elastic Net PGS Method
+- **Elastic Net PGS Method**
   - SparSNPC
-- Nultilayedered Perceptrons PGS Method
+- **Nultilayedered Perceptrons PGS Method**
   - Keras
   - Tensorflow
   - Talos
