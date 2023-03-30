@@ -14,6 +14,7 @@
 ## 软件工具
 - HAPGEN
 - PLINK
+  - 官网：<https://www.cog-genomics.org/plink/>
 - PRSice
 
 ## 方法模型及实现工具
