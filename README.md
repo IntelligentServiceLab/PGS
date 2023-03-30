@@ -16,6 +16,17 @@
 - PLINK
 - PRSice
 
+## 方法模型及实现工具
+### Additive PGS Method
+- PLINK
+- PRSice
+### Elastic Net PGS Method
+- SparSNPC
+### Nultilayedered Perceptrons PGS Method
+- Keras
+- Tensorflow
+- Talos
+
 ## 相关资料
 - [什么是多基因评分(Polygenic Scores)?](https://zhuanlan.zhihu.com/p/368701300), [英文版介绍](http://polygenicscores.org/explained/)
 - [全基因组关联分析(Genome Wide Association Study)](https://baike.baidu.com/item/%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%85%B3%E8%81%94%E5%88%86%E6%9E%90/9483732?fr=aladdin)
