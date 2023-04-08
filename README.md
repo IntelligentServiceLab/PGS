@@ -12,8 +12,8 @@
 -----
 ## 方法框架
 <center><a title="framework"><img src="framework.png" width="600"/></a></center>  
-<sup>\*</sup>Dataset:<https://www.internationalgenome.org/>  
-<sup>\*</sup>Simulations:<https://github.com/JasonGrealey/Simulations>
+*Dataset:<https://www.internationalgenome.org/>  
+*Simulations:<https://github.com/JasonGrealey/Simulations>  
 
 ## 软件工具
 - HAPGEN
