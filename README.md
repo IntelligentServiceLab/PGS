@@ -10,6 +10,8 @@
 - PRSice跑P+T模型
 
 -----
+## 方法框架
+![图片](framework.png)
 
 ## 软件工具
 - HAPGEN
