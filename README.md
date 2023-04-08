@@ -11,7 +11,7 @@
 
 -----
 ## 方法框架
-![图片](framework.png)
+<center><a title="framework"><img src="framework.png" /></a></center>
 
 ## 软件工具
 - HAPGEN
