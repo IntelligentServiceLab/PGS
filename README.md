@@ -11,7 +11,7 @@
 
 -----
 ## 方法框架
-<center><a title="framework"><img src="framework.png" width="600"/></a></center>
+<center><a title="framework"><img src="framework.png" width="600"/></a></center>  
 <sup>\*</sup>Dataset:<https://www.internationalgenome.org/>  
 <sup>\*</sup>Simulations:<https://github.com/JasonGrealey/Simulations>
 
