@@ -10,7 +10,7 @@
 - sklearn跑EN模型和MLP模型？重点是输入数据的处理？
 - 实验结果文件及图表的含义？
 - IMPUTE脚本的结果文件\*.hap和*.legend如何与下载的\*.map匹配作为HAPGEN一组输入？
-- HAPGEN的输出结果如何转换为.HDF5文件，作为Simulations程序的输入？
+- HAPGEN的输出结果如何转换为.HDF5文件，作为Simulations程序的输入？或者不使用HAPGEN，如何将一组\*.hap、\*.legend和\*.map文件转化为.HDF5文件？
 
 ## 已完成工作
 - HAPGEN数据仿真流程及参数设置的含义
