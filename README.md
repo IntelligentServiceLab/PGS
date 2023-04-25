@@ -16,6 +16,7 @@
 - HAPGEN数据仿真流程及参数设置的含义
 - PLINK的使用及跑P+T模型
 - PRSice跑P+T模型
+- [数据集下载](https://www.internationalgenome.org/data-portal/population/FIN):千人基因组计划中在芬兰地区的测序数据-90个文件
 
 -----
 ## 方法框架
