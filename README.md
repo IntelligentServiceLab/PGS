@@ -25,8 +25,12 @@
 ## 软件工具
 - HAPGEN
   - [官网](https://mathgen.stats.ox.ac.uk/genetics_software/hapgen/hapgen2.html)
+  - 输入：\*.hap, \*.legend, \*.map
+  - 输出：
 - IMPUTE
   - [官网](https://mathgen.stats.ox.ac.uk/impute/impute_v2.html#home)
+  - 输入：\*.vcf
+  - 输出：\*.hap, \*.legend
 - PLINK
   - [官网](https://www.cog-genomics.org/plink/)
 - PRSice
