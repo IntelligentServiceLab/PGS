@@ -27,6 +27,10 @@
   - [官网](https://mathgen.stats.ox.ac.uk/genetics_software/hapgen/hapgen2.html)
   - 输入：\*.hap, \*.legend, \*.map
   - 输出：
+    - cases: \*.gen, \*.sample, \*.haps, \*.tags.gen
+    - controls: \*.gen, \*.sample, \*.haps, \*.tags.gen
+    - \*.legend (同输入)
+    - \*.summary (日志文件)
 - IMPUTE2
   - [官网](https://mathgen.stats.ox.ac.uk/impute/impute_v2.html#home)
   - 输入：\*.vcf
