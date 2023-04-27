@@ -24,6 +24,7 @@
 
 *Datasets: <https://www.internationalgenome.org>  
 *Simulations: <https://github.com/JasonGrealey/Simulations>  
+*Sourcecode: <https://github.com/xuyu-cam/Deep-learning-for-genetic-prediction-of-complex-traits>
 
 ## 软件工具
 - HAPGEN
