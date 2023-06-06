@@ -10,19 +10,19 @@
 
 ### . haps--input file & output file
 
-|column-name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列|  该文件是一个二进制PLINK格式的文件，包含了每个个体在所有SNP位点上的基因型。该文件不能直接查看，需要使用PLINK软件解析。每个SNP位点的基因型由两个比特位（00，01，10）来表示，对应的等位基因分别为REF等位基因、第一个等位基因和第二个等位基因。每个比特位表示一个个体的基因型（00表示纯合REF基因型，11表示纯合第二等位基因型，01表示杂合基因型）。|
 
 ### . legend--input file & output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| SNP标识符，用于在不同研究之间对位点进行比较|
 |第2列| 位点位置，位点在染色体上的位置，通常以基对（bp）为单位表示|
 |第3列| 等位基因频率，该位点的第一个等位基因的频率，通常用小数表示|
 |第4列| 等位基因频率，该位点的第一个等位基因的频率，通常用小数表示|
 ### . map--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 染色体位置，这一列表示每个位点在基因组上的物理位置，通常以单位为bp（碱基对）表示。物理位置是基于基因组序列的，因此它不受遗传连锁关系的影响|
 |第2列| 遗传距离，遗传距离是基于遗传连锁关系的，它反映了两个位点之间的重组频率。遗传距离越大，表示两个位点之间的重组频率越高，即它们之间的遗传距离越远|
@@ -30,7 +30,7 @@
 
 
 ### . gen--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| SNP位点标识符，标识作用|
 |第2列| 位点位置，SNP位点在基因组上的位置|
@@ -41,7 +41,7 @@
 
 
 ### . sample--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 样本的第一个ID，通常是一个数字或字母编号，用于标识每个样本|
 |第2列|样本的第二个ID，通常也是一个数字或字母编号，用于标识每个样本|
@@ -49,7 +49,7 @@
 |第4列| 该样本的表型信息，通常用0或1表示，0表示不患病或不表现某种特征，1表示患病或表现某种特征|
 
 ### . tags--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列|  SNP 在参考基因组上的位置信息,将模拟数据集中的 SNP 与参考基因组上的 SNP 进行比对，从而更好地理解模拟数据集中的遗传变异情况|
 
@@ -61,7 +61,7 @@
 
 # <span id="PLINK">PLINK</span>
 ### . QC--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| CHR,该位点所在的染色体编号|
 |第2列| BP,该位点在染色体上的物理位置，通常以基对（bp）为单位|
@@ -78,14 +78,14 @@
 |descrption||
 该文件是一个二进制PLINK格式的文件，包含了每个个体在所有SNP位点上的基因型。该文件不能直接查看，需要使用PLINK软件解析。每个SNP位点的基因型由两个比特位（00，01，10）来表示，对应的等位基因分别为REF等位基因、第一个等位基因和第二个等位基因。每个比特位表示一个个体的基因型（00表示纯合REF基因型，11表示纯合第二等位基因型，01表示杂合基因型）。|
 ### . map--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 染色体位置，这一列表示每个位点在基因组上的物理位置，通常以单位为bp（碱基对）表示。物理位置是基于基因组序列的，因此它不受遗传连锁关系的影响。|
 |第2列| 遗传距离，遗传距离是基于遗传连锁关系的，它反映了两个位点之间的重组频率。遗传距离越大，表示两个位点之间的重组频率越高，即它们之间的遗传距离越远。|
 |第3列| 遗传距离相对位置，单位是cM，它是直接从遗传图谱中得到的。遗传图谱是一种基于遗传连锁关系的图谱，用于描述基因组上的遗传距离和基因间的相对位置。|
 
 ### . bim--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 染色体编号，可以是任意字符串|
 |第2列| SNP标识符，可以是任意字符串|
@@ -95,7 +95,7 @@
 |第6列| 等位基因2的名称，一般为字母或数字|
 
 ### . fam--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 家系ID，可以是任意字符串|
 |第2列| 个体ID，可以是任意字符串|
@@ -106,7 +106,7 @@
 
 
 ### . clumped--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| CHR,该位点所在的染色体编号|
 |第2列| F：该位点与最显著信号的关联程度，即该位点的LD值（linkage disequilibrium）|
@@ -124,7 +124,7 @@
 
 # <span id="IMPUTE2">IMPUTE2</span>
 ### . vcf--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 染色体编号，例如 "1"、"2"、"X" 等|
 |第2列| 位点位置，即在染色体上的位置|
@@ -139,11 +139,11 @@
 
 ### . haps--output file
 
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列|  该文件是一个二进制PLINK格式的文件，包含了每个个体在所有SNP位点上的基因型。该文件不能直接查看，需要使用PLINK软件解析。每个SNP位点的基因型由两个比特位（00，01，10）来表示，对应的等位基因分别为REF等位基因、第一个等位基因和第二个等位基因。每个比特位表示一个个体的基因型（00表示纯合REF基因型，11表示纯合第二等位基因型，01表示杂合基因型）。|
 ### . legend--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| SNP标识符，用于在不同研究之间对位点进行比较|
 |第2列| 位点位置，位点在染色体上的位置，通常以基对（bp）为单位表示|
@@ -155,7 +155,7 @@
 
 
 ### . QC--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| CHR,该位点所在的染色体编号|
 |第2列| BP,该位点在染色体上的物理位置，通常以基对（bp）为单位|
@@ -173,7 +173,7 @@
 该文件是一个二进制PLINK格式的文件，包含了每个个体在所有SNP位点上的基因型。该文件不能直接查看，需要使用PLINK软件解析。每个SNP位点的基因型由两个比特位（00，01，10）来表示，对应的等位基因分别为REF等位基因、第一个等位基因和第二个等位基因。每个比特位表示一个个体的基因型（00表示纯合REF基因型，11表示纯合第二等位基因型，01表示杂合基因型）。|
 
 ### . bim--input file & output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 染色体编号，可以是任意字符串|
 |第2列| SNP标识符，可以是任意字符串|
@@ -183,7 +183,7 @@
 |第6列| 等位基因2的名称，一般为字母或数字|
 
 ### . fam--input file & output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 家系ID，可以是任意字符串|
 |第2列| 个体ID，可以是任意字符串|
@@ -193,13 +193,13 @@
 |第6列| 出生日期，格式为YYYYMMDD，如果未知，则为0|
 
 ### . height--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 家庭 ID，通常用于区分不同家庭或亲缘关系群体。在一些 GWAS 研究中，可能会涉及到家系或亲缘关系的考虑，此时 FID 可以用于标识不同的家庭或亲缘关系群体|
 |第2列| 个体 ID，通常用于区分不同个体。在 GWAS 中，每个个体都需要有一个唯一的 IID，以便进行个体之间的区分和比较|
 |第3列| 身高数据，通常以数字形式表示每个个体的身高值，例如，以厘米为单位。在 GWAS 中，身高数据是表型数据（Phenotype）之一，与基因型数据（Genotype）一起进行关联分析，以寻找与身高相关的遗传变异|
 ### . covariate--input file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 家庭 ID，通常用于区分不同家庭或亲缘关系群体。在一些 GWAS 研究中，可能会涉及到家系或亲缘关系的考虑，此时 FID 可以用于标识不同的家庭或亲缘关系群体|
 |第2列| 个体 ID，通常用于区分不同个体。在 GWAS 中，每个个体都需要有一个唯一的 IID，以便进行个体之间的区分和比较|
@@ -207,7 +207,7 @@
 
 
 ### . assoc--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| SNP位点的 rsID 或者位置信息|
 |第2列| 该位点所在的染色体编号|
@@ -217,7 +217,7 @@
 |第6列| 该位点的 P 值，表示该位点与 GWAS 分析中使用的表型数据（如身高、体重、疾病等）之间的关联程度|
 |第7列| 该位点的 Odds Ratio，表示变异等位基因与 GWAS 分析中使用的表型数据之间的相对风险|
 ### . pheno--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 家系 ID，表示样本所属的家庭或群体|
 |第2列| 个体 ID，表示样本的唯一标识符|
@@ -225,19 +225,9 @@
 
 
 ### . best--output file
-|column name| descrption|
+|column| descrption|
 |:----  |:----  |
 |第1列| 家系 ID，表示样本所属的家庭或群体|
 |第2列| 个体 ID，表示样本的唯一标识符|
 |第3列| 样本是否被包括在回归分析中。如果该列为 1，则表示该个体已被纳入回归分析；如果该列为 0，则表示该个体未被纳入回归分析|
 |第4列| 经过计算得到的个体多基因风险评分（Polygenic Risk Score），用于预测个体患病的风险。通常是基于 GWAS 发现的遗传变异，通过加权求和计算得到的|
-
-
-
-
-
-
-
-
-
-
