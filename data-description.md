@@ -1,5 +1,12 @@
-# HAPGEN
-# PLINK
+Data Description
+- [HAPGEN](#HAPGEN)
+- [PLINK](#PLINK)
+
+# <span id="HAPGEN">HAPGEN</span>
+## Input Files
+## Output Files
+
+# <span id="PLINK">HAPGEN</span>
 ## Input Files
 ### **. fam**
 |column name| descrption|
