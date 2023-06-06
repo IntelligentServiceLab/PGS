@@ -3,8 +3,7 @@
 - [PLINK](#PLINK)
 
 # <span id="HAPGEN">HAPGEN</span>
-## Input Files
-### **. fam**
+### **. fam**--input file
 |column name| descrption|
 |:----  |:----  |
 |第1列| 家系ID，可以是任意字符串|
@@ -14,8 +13,7 @@
 |第5列| 性别，1表示男性，2表示女性，0表示未知|
 |第6列| 出生日期，格式为YYYYMMDD，如果未知，则为0|
 
-## Output Files
-### **. fam**
+### **. fam**--output file
 |column name| descrption|
 |:----  |:----  |
 |第1列| 家系ID，可以是任意字符串|
