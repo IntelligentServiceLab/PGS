@@ -25,7 +25,7 @@
 |第5列| 性别，1表示男性，2表示女性，0表示未知|
 |第6列| 出生日期，格式为YYYYMMDD，如果未知，则为0|
 
-# <span id="PLINK">HAPGEN</span>
+# <span id="PLINK">PLINK</span>
 ## Input Files
 ### **. fam**
 |column name| descrption|
