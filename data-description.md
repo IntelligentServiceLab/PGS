@@ -1,3 +1,4 @@
+# HAPGEN
 # PLINK
 ## Input Files
 ### **. fam**
