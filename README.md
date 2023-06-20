@@ -45,6 +45,7 @@
   - [Tutorial](https://choishingwan.github.io/PRSice/)
 - PGS with PLINK/PRSice-2/LDpred-2/lassosum
   - [Tutorial](https://choishingwan.github.io/PRS-Tutorial/)
+- [相关数据说明](data-description.md)
 ## 方法模型及实现工具
 - **Additive PGS Method** (P+T)
   - PLINK
