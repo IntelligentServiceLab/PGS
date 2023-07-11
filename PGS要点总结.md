@@ -48,9 +48,7 @@ R²的计算
  4. 最后，R2系数的计算公式为： R2 = 1 - (SS_res / SS_tot) 其中，R2系数的取值范围为0到1，越接近1表示模型的拟合优度越好。
  
 ----------
-
-Spearman相关系数
-（https://mengte.online/archives/1879）
+-[Spearman相关系数](https://mengte.online/archives/1879)
 Pearson相关性分析主要用于分析满足正态分布的两定量变量之间的关系，Spearman相关系数(rs)介于-1与1之间，rs >0为正相关，rs <0为负相关。rs的绝对值(|rs|)越大，变量间的相关性越强。
 
 Rs 计算
