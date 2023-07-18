@@ -2,8 +2,7 @@
 
 多基因评分（Polygenic Scores，简称PGS）是与特定性状（包括行为、特征或疾病）相关的有效等位基因作用（即遗传基因影响）的加权和，可用于估计一个人出现某种生理/心理特征、罹患某种疾病的风险。
 
-----------
--[连锁不平衡与基因座](https://gwaslab.org/2021/04/04/%e8%bf%9e%e9%94%81%e4%b8%8d%e5%b9%b3%e8%a1%a1-linkage-disequilibrium-ld/)
+### [连锁不平衡与基因座](https://gwaslab.org/2021/04/04/%e8%bf%9e%e9%94%81%e4%b8%8d%e5%b9%b3%e8%a1%a1-linkage-disequilibrium-ld/)
 
 连锁不平衡（linkage disequilibrium LD）是指不同基因座（loci）的等位基因（Allele）之间非随机（Nonrandom）的关联。基因座与等位基因之间的关系是，基因座是指染色体上的位置，而等位基因则是在该位置上可能存在的不同版本的基因，每个基因座上都有两个等位基因，一个来自父亲一个来自母亲。
 
