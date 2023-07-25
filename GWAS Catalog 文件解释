@@ -1,0 +1,76 @@
+
+# Data Description
+- [32888494-GCST90002407-EFO_0004308-Build37.tsv](#32888494-GCST90002407-EFO_0004308-Build37.tsv)
+- [GCST90002407_buildGRCh37.tsv](#GCST90002407_buildGRCh37.tsv)
+- [harmonised.qc.tsv](#harmonised.qc.tsv)
+
+
+# <span id="32888494-GCST90002407-EFO_0004308-Build37.tsv">Build37.tsv</span>
+
+|column| descrption|
+|:----  |:----  |
+|variant_id| 变体（SNP）的唯一标识符|
+|chromosome| 染色体编号|
+|base_pair_location| 每个 SNP 的碱基对位置，通常以基对（bp）为单位表示|
+|other_allele| 变体的其他等位基因（并非影响等位基因，通常用作参考）|
+|effect_allele| 变体的影响等位基因，也被称为风险等位基因（通常是与特定特征或疾病相关的等位基因）|
+|beta| 等位基因1的效应大小估计，也称为等位基因的效应值。|
+|p_value| 目标SNP与表型是否显著关联|
+|standard_error| 变体效应大小的标准误差|
+|effect_allele_frequency| 变体等位基因的频率|
+|odds_ratio| 用于评估该位点与研究特征之间的关联程度|
+|ci_lower| 置信区间的下限|
+|ci_upper| 置信区间的上限|
+
+# <span id=" GCST90002407_buildGRCh37.tsv">buildGRCh37.tsv</span>
+
+
+|column| descrption|
+|:----  |:----  |
+|VARIANT| 变体标识符（如'1:10352_T_TA'）|
+|variant_id| 变体唯一标识符|
+|chromosome| 染色体编号|
+|CHR_num| 染色体数量还是标号，不清楚？？|  !!
+|base_pair_location| 每个 SNP 的碱基对位置，通常以基对（bp）为单位表示|
+|GENPOS| 变体在染色体上的位置（可能是相对位置）|
+|other_allele| 变体的其他等位基因（并非影响等位基因，通常用作参考）|
+|effect_allele| 变体的影响等位基因，也被称为风险等位基因（通常是与特定特征或疾病相关的等位基因）|
+|beta| 等位基因1的效应大小估计，也称为等位基因的效应值。|
+|p_value| 目标SNP与表型是否显著关联|
+|MLOG10P| 对 p 值取对数后的负数,统计显著性|
+|standard_error| 变体效应大小的标准误差|
+|effect_allele_frequency| 变体等位基因的频率|
+|ALT_MINOR| 是否为次要等位基因|
+|MA_FREQ| 主要等位基因（Major Allele）的频率|
+|R^2| 关联系数|
+|GWSIG|  是否达到全基因组显著性阈值|
+|INFO| 衡量基因组变异的质量和相关信息的分数，越接近1越好|
+
+# <span id=" harmonised.qc.tsv">harmonised.qc.tsv</span>
+|column| descrption|
+|:----  |:----  |
+|hm_variant_id| 变体的标识符|
+|hm_rsid| 变体的编号|
+|hm_chrom|染色体编号|
+|hm_pos|变体在染色体上的碱基位置|
+|hm_other_allele| 变体的其他等位基因（并非影响等位基因，通常用作参考）|
+|hm_effect_allele| 变体的影响等位基因，也被称为风险等位基因（通常是与特定特征或疾病相关的等位基因）|
+|hm_beta| 等位基因1的效应大小估计，也称为等位基因的效应值。|
+|hm_odds_ratio| 用于评估该位点与研究特征之间的关联程度|
+|hm_ci_lower| 置信区间的下限|
+|hm_ci_upper| 置信区间的上限|
+|hm_effect_allele_frequency| 变体等位基因的频率|
+|hm_code| 含义不清楚，数据中列值为‘10’|  !!
+|variant_id| 变体（SNP）的唯一标识符|
+|chromosome| 染色体编号|
+|base_pair_location| 每个 SNP 的碱基对位置，通常以基对（bp）为单位表示|
+|other_allele| 变体的其他等位基因（并非影响等位基因，通常用作参考）|
+|effect_allele| 变体的影响等位基因，也被称为风险等位基因（通常是与特定特征或疾病相关的等位基因）|
+|beta| 等位基因1的效应大小估计，也称为等位基因的效应值。|
+|p_value| 目标SNP与表型是否显著关联|
+|standard_error| 变体效应大小的标准误差|
+|effect_allele_frequency| 变体等位基因的频率|
+|odds_ratio| 用于评估该位点与研究特征之间的关联程度|
+|ci_lower| 置信区间的下限|
+|ci_upper| 置信区间的上限|
+
