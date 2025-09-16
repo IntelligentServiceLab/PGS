@@ -68,7 +68,8 @@
 - [《统计遗传学：第五章 多基因得分(PGS)分析》](https://wenku.baidu.com/view/7a766a30f22d2af90242a8956bec0975f465a496?aggId=7a766a30f22d2af90242a8956bec0975f465a496&fr=catalogMain&_wkts_=1671794745568&bdQuery=Polygenic+scores+%28PGS%29)
 - [冯彦斌-项目笔记](https://www.mubucm.com/doc/rpvKpUCTCS)
 ## 相关文献
-- 
+- [s43586-021-00056-9.pdf](https://github.com/user-attachments/files/22354252/s43586-021-00056-9.pdf)
+
 ## 团队成员
 - 陈婉君 21级本科生
 - 刘子豪 21级本科生
