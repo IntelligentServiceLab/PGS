@@ -1,4 +1,5 @@
-## 近期任务安排
+## 论文列表
+1. Jingning Zhang, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O’connell, Yunxuan Jiang, 23andme Research Team, Bertram L Koelsch, Haoyu Zhang. *An Ensemble Penalized Regression Method for Multi-Ancestry Polygenic Risk Prediction*. **Nature Communications**, Vol. 15, No. 1, pp. 3238, 2024.
 
 ## 待解决的问题
 - ReferencePanel数据来源？   What is the data source for ReferencePanel?
