@@ -1,15 +1,6 @@
 ## 论文列表
 1. Jingning Zhang, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O’connell, Yunxuan Jiang, 23andme Research Team, Bertram L Koelsch, Haoyu Zhang. **An Ensemble Penalized Regression Method for Multi-Ancestry Polygenic Risk Prediction**. *Nature Communications*, Vol. 15, No. 1, pp. 3238, 2024. [PDF](https://pan.baidu.com/s/1dXhSoLVuvqWH3nlk7pBPYw?), [Reading Notes](), [Source Code]()
 
-## 待解决的问题
-- ReferencePanel数据来源？   What is the data source for ReferencePanel?
-- PRScice跑EN模型？
-- sklearn跑EN模型和MLP模型？重点是输入数据的处理？
-- 实验结果文件及图表的含义？
-- IMPUTE脚本的结果文件\*.hap和*.legend如何与下载的\*.map匹配作为HAPGEN一组输入？How can the result files *.hap and *.legend from the IMPUTE script be matched with the downloaded *.map as a set of inputs for HAPGEN?
-- HAPGEN的输出结果如何转换为.HDF5文件，作为Simulations程序的输入？或者不使用HAPGEN，如何将一组\*.hap、\*.legend和\*.map文件转化为.HDF5文件？How can the output results of HAPGEN be converted into an HDF5 file to serve as the input for the Simulations program? Or, without using HAPGEN, how can a set of *.hap, *.legend and *.map files be transformed into an HDF5 file?
-- GWAS Catalog下载的tsv文件如何提取.bed、.fam文件？How to extract the .bed and .fam files from the tsv file downloaded from the GWAS Catalog?
-- 其他疾病数据下载后的作用?
 
 ## 已完成工作
 - HAPGEN数据仿真流程及参数设置的含义
