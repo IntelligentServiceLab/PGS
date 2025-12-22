@@ -71,7 +71,6 @@
 - GWAS的介绍[s43586-021-00056-9.pdf](https://github.com/user-attachments/files/22354252/s43586-021-00056-9.pdf)
 
 ## 团队成员
-- 陈婉君 21级本科生
-- 刘子豪 21级本科生
+- 谌佳伟 24级研究生
 - 康国胜 指导老师
 - 徐&ensp;&ensp;宇 指导老师   Xu   Teacher Yu
