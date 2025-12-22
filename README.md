@@ -1,5 +1,6 @@
 ## 论文列表
-1. Jingning Zhang, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O’connell, Yunxuan Jiang, 23andme Research Team, Bertram L Koelsch, Haoyu Zhang. **An Ensemble Penalized Regression Method for Multi-Ancestry Polygenic Risk Prediction**. *Nature Communications*, Vol. 15, No. 1, pp. 3238, 2024. [PDF](https://pan.baidu.com/s/1dXhSoLVuvqWH3nlk7pBPYw?), [Reading Notes](Reading-Notes/2024_NC_A.md), [Source Code]()
+1. Jingning Zhang, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O’connell, Yunxuan Jiang, 23andme Research Team, Bertram L Koelsch, Haoyu Zhang. **An Ensemble Penalized Regression Method for Multi-Ancestry Polygenic Risk Prediction**. *Nature Communications*, Vol. 15, No. 1, pp. 3238, 2024. [PDF](https://pan.baidu.com/s/1dXhSoLVuvqWH3nlk7pBPYw), [Reading Notes](Reading-Notes/2024_NC_A.md), [Source Code]()
+2. Martin Kelemen, Elena Vigorito, Laura Fachal, Carl A Anderson, Chris Wallace. Shaprs: Leveraging Shared Genetic Effects across Traits or Ancestries Improves Accuracy of Polygenic Scores [J]. The American Journal of Human Genetics, Vol. 111, No. 6, pp. 1006-1017, 2024. [PDF](https://pan.baidu.com/s/1KEZi0w-XUVYDq1RDEuQmKw), [Reading Notes](Reading-Notes/2024_AJHG_A.md), [Source Code]()
 
 
 ## 已完成工作
