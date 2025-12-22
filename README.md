@@ -1,5 +1,5 @@
 ## 论文列表
-1. Jingning Zhang, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O’connell, Yunxuan Jiang, 23andme Research Team, Bertram L Koelsch, Haoyu Zhang. **An Ensemble Penalized Regression Method for Multi-Ancestry Polygenic Risk Prediction**. *Nature Communications*, Vol. 15, No. 1, pp. 3238, 2024. [PDF](https://pan.baidu.com/s/1dXhSoLVuvqWH3nlk7pBPYw?), [Reading Notes](2024_NC_1), [Source Code]()
+1. Jingning Zhang, Jianan Zhan, Jin Jin, Cheng Ma, Ruzhang Zhao, Jared O’connell, Yunxuan Jiang, 23andme Research Team, Bertram L Koelsch, Haoyu Zhang. **An Ensemble Penalized Regression Method for Multi-Ancestry Polygenic Risk Prediction**. *Nature Communications*, Vol. 15, No. 1, pp. 3238, 2024. [PDF](https://pan.baidu.com/s/1dXhSoLVuvqWH3nlk7pBPYw?), [Reading Notes](Reading-Notes/2024_NC_1), [Source Code]()
 
 
 ## 已完成工作
